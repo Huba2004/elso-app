@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <p>
-      housing-location works!
+     Ez egy szöveg!
     </p>
   `,
   styleUrl: './housing-location.component.css'

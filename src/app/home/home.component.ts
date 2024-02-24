@@ -13,7 +13,7 @@ import { HousingLocationComponent } from '../housing-location/housing-location.c
   <section>
     <form>
       <input type="text" placeholder="Filter by city">
-      <button class="primary" type="button">Search</button>
+      <button class="primary" type="button">Keresés</button>
     </form>
   </section>
   <section class="results">
